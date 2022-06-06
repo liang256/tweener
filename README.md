@@ -2,7 +2,7 @@
 a Maya tween machine
 
 ### Usage
-1. Place `tweenerUI` into `script` folder
+1. Place `tweenerUI.py` into `script` folder
 2. Run this code to open the UI
   ```python
   import tweenerUI
